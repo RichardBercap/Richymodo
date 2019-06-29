@@ -25,7 +25,7 @@ export default {
   data(){
       return{
           
-          time:1,
+          time:25,
           seconds:60,
           disabled_button:false,
           initial_time:{
